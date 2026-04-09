@@ -5,7 +5,7 @@ A basic web application that allow users to order food from restaurants.
 
 
 ## Note
-This project is used by these two projects:
+This repository is shared for the following courses:
 - Software Analysis & Design **(CSE703048-1-3-25)**
     - Tran Ngoc An (23010283)
     - Pham Xuan Bach (23010118)
@@ -20,17 +20,20 @@ This project is used by these two projects:
 
 - Backend: Spring Boot (REST API)
 - Frontend: Vue.js
-- Database: MySQL + SpringJPA
+- Database: MySQL
+- ORM: Spring Data JPA
+- Auth: JWT
+- Build Tool: Maven
 
 ## Testing Stack
 - Backend Unit Test: JUnit + Mockito
-- Intergration Test: Spring Boot Test
+- Integration Test: Spring Boot Test
 - API Testing: Postman
 - Frontend testing: Vitest + Vue Test Utils
 - End-to-end Testing: Cypress
 - Code Coverage: JaCoCo
 ## Project Structure
-- ```/Documents_Analysis_and_Design``` Documents folder for Sor
+- ```/Documents_Analysis_and_Design```
 - ```/Documents_Quality_Assurance_and_Testing```
 - ```/SRC```
 - placeholder
